@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1715003800603,
+      "tag": "0000_outgoing_bloodscream",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1715004210480,
+      "tag": "0001_superb_corsair",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1715171909434,
+      "tag": "0002_tranquil_metal_master",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1715179142519,
+      "tag": "0003_organic_sebastian_shaw",
+      "breakpoints": true
+    }
+  ]
+}
